@@ -31,7 +31,7 @@ Plotly, Pandas, NumPy, OpenCV, Matplotlib, Git, Docker
 ### 📊 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🧠 [AI Pavement Detection](#) | Distalation model between a SSM (V-Mamba) and Transformer model | Python, OpenCV, PyTorch |
+| 🧠 [AI Pavement Detection](https://github.com/Adammac7/Pavement_distress_research/blob/main/README.md) | Distalation model between a SSM (V-Mamba) and Transformer model | Python, OpenCV, PyTorch |
 | ⚾ [SDSU Baseball Stats Website ](#) | End-to-end AWS data pipeline for baseball analytics | AWS Lambda, S3, DynamoDB, Node.js |
 | 📈 [Galaxy Image Classification](https://github.com/Adammac7/Galaxy-Classification) | AI classification model built to sort images of galaxies | Python, PyTorch, NumPy,TensorFlow |
 | 💬 [Portfolio Website](#) | My portfolio website | React, Javascript, HTML/CSS  |
