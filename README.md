@@ -19,7 +19,7 @@ I love transforming real-world data into visual, explainable insights — from *
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** Python, Java, C++, JavaScript/TypeScript,HTML/CSS, SQL 
+**Languages:** Python, Java, C++, JavaScript/TypeScript,HTML/CSS, SQL **
 **Frameworks & Tools:** Node.js, React, AWS (Lambda, S3, DynamoDB, Amplify),  
 Plotly, Pandas, NumPy, OpenCV, Matplotlib, Git, Docker  
 
