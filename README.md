@@ -19,12 +19,30 @@ I love transforming real-world data into visual, explainable insights — from *
 
 ## 🛠️ Tech Stack  
 
-**Languages:**  
-`Python` • `Java` • `C++` • `JavaScript / TypeScript` • `HTML / CSS` • `SQL`  
+### 🧩 Languages  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="45" height="45"/>
+</p>
 
-**Frameworks & Tools:**  
-`React` • `Node.js` • `AWS (Lambda, S3, DynamoDB, Amplify)` • `Plotly` • `Pandas` • `NumPy` •  
-`OpenCV` • `Matplotlib` • `Git` • `Docker`  
+### ⚙️ Frameworks & Tools  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="45" height="45"/>
+</p>
 
 **Interests:**  
 💡 Applied ML • 🧩 Computer Vision • 📈 Full-Stack Development • ⚾ Sports Analytics  
@@ -50,8 +68,8 @@ I love transforming real-world data into visual, explainable insights — from *
 ---
 
 ## 📫 Connect With Me  
-[💼 LinkedIn](https://www.linkedin.com/in/adammacfarlane)  
-[🐙 GitHub](https://github.com/Adammac7)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam%20Macfarlane-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammacfarlane)  
+
 
 ---
 
