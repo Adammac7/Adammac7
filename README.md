@@ -19,7 +19,7 @@ I love transforming real-world data into visual, explainable insights — from *
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** Python, Java, C++, JavaScript/TypeScript,HTML/CSS, SQL **
+**Languages:** Python, Java, C++, JavaScript/TypeScript,HTML/CSS, SQL 
 **Frameworks & Tools:** Node.js, React, AWS (Lambda, S3, DynamoDB, Amplify),  
 Plotly, Pandas, NumPy, OpenCV, Matplotlib, Git, Docker  
 
@@ -31,10 +31,10 @@ Plotly, Pandas, NumPy, OpenCV, Matplotlib, Git, Docker
 ### 📊 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🧠 [AI Pavement Detection](#) | Detects road cracks & distress from images using CNNs | Python, OpenCV, PyTorch |
+| 🧠 [AI Pavement Detection](#) | Distalation model between a SSM (V-Mamba) and Transformer model | Python, OpenCV, PyTorch |
 | ⚾ [SDSU Baseball Stats Website ](#) | End-to-end AWS data pipeline for baseball analytics | AWS Lambda, S3, DynamoDB, Node.js |
 | 📈 [Galaxy Image Classification](https://github.com/Adammac7/Galaxy-Classification) | AI classification model built to sort images of galaxies | Python, PyTorch, NumPy,TensorFlow |
-| 💬 [Portfolio Website](#) | Chat-based AI prep tool for behavioral & technical interviews | React, Javascript, HTML/CSS  |
+| 💬 [Portfolio Website](#) | My portfolio website | React, Javascript, HTML/CSS  |
 
 ---
 
