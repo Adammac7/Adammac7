@@ -32,9 +32,9 @@ Plotly, Pandas, NumPy, OpenCV, Matplotlib, Git, Docker
 | Project | Description | Tech |
 |----------|--------------|------|
 | 🧠 [AI Pavement Detection](#) | Detects road cracks & distress from images using CNNs | Python, OpenCV, PyTorch |
-| ⚾ [WCO Baseball Pipeline](#) | End-to-end AWS data pipeline for baseball analytics | AWS Lambda, S3, DynamoDB, Node.js |
-| 📈 [Fantasy Football Simulator](#) | Monte Carlo & Markov chain simulations for fantasy leagues | Python, Pandas, NumPy |
-| 💬 [AI Interview Assistant](#) | Chat-based AI prep tool for behavioral & technical interviews | React, Flask, OpenAI API |
+| ⚾ [SDSU Baseball Stats Website ](#) | End-to-end AWS data pipeline for baseball analytics | AWS Lambda, S3, DynamoDB, Node.js |
+| 📈 [Galaxy Image Classification](#) | AI classification model built to sort images of galaxies | Python, PyTorch, NumPy,TensorFlow |
+| 💬 [Portfolio Website](#) | Chat-based AI prep tool for behavioral & technical interviews | React, Javascript, HTML/CSS  |
 
 ---
 
