@@ -28,7 +28,7 @@ I love transforming real-world data into visual, explainable insights — from *
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="45" height="45"/>
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg](https://cdn-icons-png.flaticon.com/512/4248/4248443.png)" alt="SQL" width="45" height="45"/>
 </p>
 
 ### ⚙️ Frameworks & Tools  
