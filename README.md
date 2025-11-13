@@ -51,7 +51,7 @@ I love transforming real-world data into visual, explainable insights — from *
 
 | Project | Description | Tech |
 |:--|:--|:--|
-| 🧠 [AI Pavement Detection](https://github.com/Adammac7/Pavement_distress_research/blob/main/README.md) | Distillation model between a State Space Model (V-Mamba) and Transformer | Python, OpenCV, PyTorch |
+| 🧠 [AI Pavement Detection](https://github.com/Adammac7/Pavement_distress_research/blob/main/README.md) | Distillation model between a State Space Model (V-Mamba) and Transformer | Python, State Space models, PyTorch |
 | ⚾ [SDSU Baseball Stats Website](https://github.com/WorldComputingSDSU/WCO_baseball_project) | End-to-end AWS data pipeline for baseball analytics | AWS Lambda, S3, DynamoDB, Node.js |
 | 🌌 [Galaxy Image Classification](https://github.com/Adammac7/Galaxy-Classification) | Deep learning model for galaxy image classification | Python, PyTorch, NumPy, TensorFlow |
 | 💬 [Portfolio Website](#) | Personal website highlighting my work and experience | React, JavaScript, HTML/CSS |
