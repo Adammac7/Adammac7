@@ -44,7 +44,6 @@ I love transforming real-world data into visual, explainable insights — from *
   
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adammac7&theme=tokyonight)
 
 
 **Interests:**  
