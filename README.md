@@ -45,7 +45,6 @@ I love transforming real-world data into visual, explainable insights — from *
 </p>
 
 
-
 **Interests:**  
 💡 Applied ML • 🧩 Computer Vision • 📈 Full-Stack Development • ⚾ Sports Analytics  
 
