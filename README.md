@@ -1,76 +1,77 @@
-# 👋 Hey, I'm Adam Macfarlane  
+This is already strong. You just need tightening, consistency, and small professional upgrades.
 
-🎓 **Computer Science @ San Diego State University**  
-📊 **Minor in Quantitative Economics**  
-⚾ **Sports Analytics | AI Research | Full-Stack Engineering**
-🛡️ **SWE Intern for Northrop Grumman | Summer 2026**
+Here’s the cleaned, sharper version — formatted properly for GitHub and polished for tone:
 
----
+👋 Hey, I'm Adam Macfarlane
 
-## 🚀 About Me  
-I'm a passionate developer exploring the intersection of **AI, data, and sports**.  
+🎓 Computer Science @ San Diego State University
+📊 Minor in Quantitative Economics
+⚾ Sports Analytics | AI Research | Full-Stack Engineering
+🛡️ SWE Intern, Northrop Grumman | Summer 2026
 
-Currently, I’m working on:
-- ⚙️ **WCO Baseball Project** – AWS-based analytics pipeline powering a React website  
-- 🌐 **OS and Cloud Computing Projects ** – Learning Linux and System Design 
+🚀 About Me
 
-I love transforming real-world data into visual, explainable insights — from **baseball pitch tracking** to **AI-driven trading strategies**.
+I’m a developer focused on the intersection of AI, data systems, and sports analytics.
 
----
+Currently building:
 
-## 🛠️ Tech Stack  
+⚙️ WCO Baseball Project — AWS-based analytics pipeline powering a React application
 
-### 🧩 Languages  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP" width="45" height="45"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="CSS" width="45" height="45"/>
-</p>
+🌐 Operating Systems & Cloud Projects — Deepening Linux, distributed systems, and system design knowledge
 
-### ⚙️ Frameworks & Tools  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-line-wordmark.svg" alt="Node.js" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" alt="AWS" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="TWCSS" width="45" height="45"/>
-  
-</p>
+I enjoy transforming real-world data into clear, explainable insights — from baseball pitch tracking to AI-driven modeling systems.
 
+🛠️ Tech Stack
+🧩 Languages
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/> </p>
+⚙️ Frameworks & Tools
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-line-wordmark.svg" alt="Node.js" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" alt="AWS" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="45" height="45"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="45" height="45"/> </p>
 
-**Interests:**  
-💡 Applied ML • 🧩 Computer Vision • 📈 Full-Stack Development • ⚾ Sports Analytics  
+Interests:
+💡 Applied Machine Learning • 🧩 Computer Vision • 📈 Full-Stack Development • ⚾ Sports Analytics
 
----
+📊 Featured Projects
+Project	Description	Tech
+🧠 AI Pavement Detection
+	Knowledge distillation between a State Space Model (V-Mamba) and a Transformer architecture	Python, PyTorch
+⚾ SDSU Baseball Stats Website
+	End-to-end AWS data pipeline powering baseball analytics platform	AWS Lambda, S3, DynamoDB, React, Node.js
+🌌 Galaxy Image Classification
+	Deep learning model for galaxy image classification	Python, PyTorch, NumPy
+💬 Hire Me
+	AI-powered interview preparation platform	React, FastAPI, OpenAI API
+🎯 Current Goals (2025)
 
-## 📊 Featured Projects  
+Deepen cloud architecture knowledge (AWS + distributed systems)
 
-| Project | Description | Tech |
-|:--|:--|:--|
-| 🧠 [AI Pavement Detection](https://github.com/Adammac7/Pavement_distress_research/blob/main/README.md) | Distillation model between a State Space Model (V-Mamba) and Transformer | Python, State Space models, PyTorch |
-| ⚾ [SDSU Baseball Stats Website](https://github.com/WorldComputingSDSU/WCO_baseball_project) | End-to-end AWS data pipeline for baseball analytics | AWS Lambda, S3, DynamoDB, React, Node.js |
-| 🌌 [Galaxy Image Classification](https://github.com/Adammac7/Galaxy-Classification) | Deep learning model for galaxy image classification | Python, PyTorch, NumPy, TensorFlow |
-| 💬 [Hire Me](#) | AI powered interview prep website | React, FastAPI,OpenAI, HTML/CSS |
+Strengthen system design fundamentals
 
----
+Continue building production-grade ML systems
 
-## 🎯 Current Goals (2025)
-- Learn more about cloud computing 
+📫 Connect With Me
 
----
+Build systems that learn — and learn from the systems you build.
 
-## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam%20Macfarlane-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammacfarlane)  
+Now let me coach you for a second.
 
+Your profile is strong technically. But if you want this to stand out to recruiters:
 
----
+Add 1–2 quantified outcomes (latency reduced, accuracy improved, users served).
 
-> _“Build things that learn — and learn from the things you build.”_
+Pin your 2 best repos.
+
+Remove anything that isn’t production-quality.
+
+You’re at the stage where polish > volume.
+
+If you want, I can help you optimize this specifically for:
+
+Defense recruiters
+
+Big Tech SWE
+
+Quant / trading
+
+AI research labs
+
+Each one requires slightly different positioning.
