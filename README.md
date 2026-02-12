@@ -3,6 +3,7 @@
 🎓 **Computer Science @ San Diego State University**  
 📊 **Minor in Quantitative Economics**  
 ⚾ **Sports Analytics | AI Research | Full-Stack Engineering**
+🛡️ **SWE Intern for Northrop Grumman | Summer 2026**
 
 ---
 
@@ -11,7 +12,7 @@ I'm a passionate developer exploring the intersection of **AI, data, and sports*
 
 Currently, I’m working on:
 - ⚙️ **WCO Baseball Project** – AWS-based analytics pipeline powering a React website  
-- 🌐 **Portfolio Website** – Full-stack site showcasing my projects, skills, and experience  
+- 🌐 **OS and Cloud Computing Projects ** – Learning Linux and System Design 
 
 I love transforming real-world data into visual, explainable insights — from **baseball pitch tracking** to **AI-driven trading strategies**.
 
@@ -57,14 +58,12 @@ I love transforming real-world data into visual, explainable insights — from *
 | 🧠 [AI Pavement Detection](https://github.com/Adammac7/Pavement_distress_research/blob/main/README.md) | Distillation model between a State Space Model (V-Mamba) and Transformer | Python, State Space models, PyTorch |
 | ⚾ [SDSU Baseball Stats Website](https://github.com/WorldComputingSDSU/WCO_baseball_project) | End-to-end AWS data pipeline for baseball analytics | AWS Lambda, S3, DynamoDB, React, Node.js |
 | 🌌 [Galaxy Image Classification](https://github.com/Adammac7/Galaxy-Classification) | Deep learning model for galaxy image classification | Python, PyTorch, NumPy, TensorFlow |
-| 💬 [Portfolio Website](#) | Personal website highlighting my work and experience | React, JavaScript, HTML/CSS |
+| 💬 [Hire Me](#) | AI powered interview prep website | React, FastAPI,OpenAI, HTML/CSS |
 
 ---
 
 ## 🎯 Current Goals (2025)
-- 🚀 Secure a **Software Engineering / AI internship**  
-- 📂 Publish my **sports analytics project** as an open-source tool  
-- ☁️ Strengthen my **systems & cloud architecture** expertise  
+- Learn more about cloud computing 
 
 ---
 
