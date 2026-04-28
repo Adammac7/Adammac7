@@ -10,8 +10,7 @@
 ## 🚀 About Me  
 I'm a passionate developer exploring the intersection of **AI, data, and sports**.  
 
-Currently, I’m working on:
-- ⚙️ **WCO Baseball Project** – AWS-based analytics pipeline powering a React website  
+Currently, I’m working on: 
 - 🌐 **Operating Systems & Cloud Projects — Deepening Linux, distributed systems, and system design knowledge**  
 
 I love transforming real-world data into visual, explainable insights — from **baseball pitch tracking** to **AI-driven trading strategies**.
@@ -30,7 +29,6 @@ I love transforming real-world data into visual, explainable insights — from *
 | Project | Description | Tech |
 |:--|:--|:--|
 | 🧠 [AI Pavement Detection](https://github.com/Adammac7/Pavement_distress_research/blob/main/README.md) | Distillation model between a State Space Model (V-Mamba) and Transformer | Python, State Space models, PyTorch |
-| ⚾ [SDSU Baseball Stats Website](https://github.com/WorldComputingSDSU/WCO_baseball_project) | End-to-end AWS data pipeline for baseball analytics | AWS Lambda, S3, DynamoDB, React, Node.js |
 | 🌌 [Galaxy Image Classification](https://github.com/Adammac7/Galaxy-Classification) | Deep learning model for galaxy image classification | Python, PyTorch, NumPy, TensorFlow |
 | 💬 [Hire Me](#) | AI powered interview prep website | React, FastAPI,OpenAI, HTML/CSS |
 
