@@ -13,8 +13,6 @@ I'm a passionate developer exploring the intersection of **AI, data, and sports*
 Currently, I’m working on: 
 - 🌐 **Operating Systems & Cloud Projects — Deepening Linux, distributed systems, and system design knowledge**  
 
-I love transforming real-world data into visual, explainable insights — from **baseball pitch tracking** to **AI-driven trading strategies**.
-
 ---
 
 
@@ -35,7 +33,7 @@ I love transforming real-world data into visual, explainable insights — from *
 ---
 
 ## 🎯 Current Goals (2025)
-- Learn more about cloud computing 
+- Learn more about cloud computing system design
 
 ---
 
