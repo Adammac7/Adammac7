@@ -44,5 +44,3 @@ I love transforming real-world data into visual, explainable insights — from *
 
 
 ---
-
-> _“Build things that learn — and learn from the things you build.”_
