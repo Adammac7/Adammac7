@@ -1,9 +1,7 @@
 👋 Hey, I'm Adam Macfarlane  
 
 🎓 **Computer Science @ San Diego State University**  
-📊 **Minor in Quantitative Economics**  
-⚾ **Sports Analytics | AI Research | Full-Stack Engineering**  
-🛡️ **SWE Intern for Northrop Grumman | Summer 2026**
+🛡️ **Incoming SWE @ Northrop Grumman | Fall 2027**
 
 ---
 
